@@ -47,3 +47,18 @@ footer {
     left: 0;
     bottom: 0;
 }
+
+.card {
+    border: 1px solid blue;
+    width: 30%;
+    float: left;
+    margin: 5px;
+}
+
+.card img {
+    height: 100px;
+}
+
+.character img {
+    border: 1px solid blue;
+}
